@@ -7,7 +7,7 @@
 1. Are salaries in the Brazilian South region higher than the Brazilian North region?
 
 2. Between the Brazilian regions have any higher salaries than the others?
-## <font color='red'> Data Base: </font>
+## <font color='red'> Database: </font>
 Brazilian IBGE - Population Sensus 1970 Sample (data.csv)
 
 ## Chart: Companies distribution on the Brazil area
