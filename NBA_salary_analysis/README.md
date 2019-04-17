@@ -19,7 +19,9 @@ __<center> Let's go! </center>__
 ## Analysing Results
 
 ### __1. Lower than the average__
-There are currently __45 players__ earning less than the average salary. This represents a total of __7.85%__.
+Based on that Dataset we can affirm with 95% certainty that There are currently __45 players__ earning less than the average salary. This represents a total of __7.85%__.
+Therefore: **Fail to reject H0**
+
 
 ### __2. Higher than the average__
-Currently there are __no__ players earning higher than the average salary. The highest salary is on the average distribution.
+Based on that Dataset we can affirm with 95% certainty that currently there are __no__ players earning higher than the average salary. The highest salary is on the average distribution. Therefore: **Reject H0**
