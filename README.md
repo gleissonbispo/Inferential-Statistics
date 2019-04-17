@@ -5,4 +5,4 @@ For example, to measure the diameter of each nail that is manufactured in a mill
 You can measure the diameters of a representative random sample of nails. 
 You can use the information from the sample to make generalizations about the diameters of all of the nails.
 
-<img src=https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjY3s-wj9bhAhXhHrkGHeV5DWkQjRx6BAgBEAQ&url=%2Furl%3Fsa%3Di%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fcourses.lumenlearning.com%252Fwmopen-concepts-statistics%252Fchapter%252Fwim-linking-probability-to-statistical-inference%252F%26psig%3DAOvVaw3DQXYw58Q8RhjvB6FA6kqe%26ust%3D1555555869948818&psig=AOvVaw3DQXYw58Q8RhjvB6FA6kqe&ust=1555555869948818 width=600>
+<img src=https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/1729/2017/04/15032158/m7_link_prob_statistical_inference_topic_7_1_m7_intro_inference_1_image1.png width=600>
